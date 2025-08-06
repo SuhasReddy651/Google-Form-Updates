@@ -63,8 +63,7 @@ Design a form with the following fields in this **exact order**:
   `Extensions` → `Apps Script`
 
 ### 2. Add the Script
-- Create a new file named: `EmailSendFunction.js`
-- Paste the entire final code into it.
+- Paste the entire code from `EmailSendFunction.js` into it.
 
 ---
 
@@ -125,5 +124,7 @@ Design a form with the following fields in this **exact order**:
 
 ## 🙌 Credits
 
-Made with ❤️ by  
-**SSR Software Solutions**
+
+<p align="start">
+  Made with ❤️ by &nbsp&nbsp<img src="https://raw.githubusercontent.com/SuhasReddy651/ssr-software-solutions/main/logo-white.png" alt="ssr software solutions" width="150" />
+</p>
